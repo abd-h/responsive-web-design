@@ -34,8 +34,6 @@ In this project, I built a quiz webpage. I practice on accessibility tools such 
 
 In this project I built a Balance Sheet using pseudo selectors. I practice how to change the style of an element when you hover over it with your mouse, and trigger other events on the webpage.
 
-
 ## A Picasso Painting
 
 Here I've built a Picasso Painting webpage, using CSS techniques. I used SVG icons, CSS positioning, and reviewed other CSS skills I learned.
-
